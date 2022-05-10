@@ -7,10 +7,10 @@ from tkinter import *
 from tkinter import ttk
 
 root = Tk()
-root.title("Inventory System")
+root.title("Inventory Web Tracking Application")
 root.geometry("1080x720")
 my_tree = ttk.Treeview(root)
-storeName = "Inventory System"
+storeName = "Inventory Web Tracking Application"
 
 
 def reverse(tuples):
